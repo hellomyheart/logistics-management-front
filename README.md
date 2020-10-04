@@ -28,6 +28,7 @@
 
 
 使用vue-element-admin搭建的物流管理系统后台前端项目，以下是vue-element-admin介绍。
+对应后端项目地址 [github](https://github.com/hellomyheart/logistics-management-system.git)
 
 
 ## 简介
